@@ -17,4 +17,6 @@
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MatteoSanson"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatteoSanson&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/MatteoSanson"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatteoSanson&stroke=000000&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=000000&currStreakLabel=14b8a6&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="https://github.com/MatteoSanson" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoSanson&langs_count=10&title_color=14b8a6&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
