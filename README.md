@@ -1,8 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matteo Sanson 
-=====================================================================================================================================  
+<h1 align="center">Hello there! 👋 My name is Matteo Sanson</h1>
+<h3 align="center">I'm a Jr. Full Stack Web Developer 💻</h3>
 
-I'm a Jr. Full Stack Web Developer 
-----------------------------------
+<br>
+
+
 * 🌍  I'm based in Udine 
 * ✉️  You can contact me at [matteo.sanson@gmail.com](mailto:matteo.sanson@gmail.com)
 
